@@ -36,13 +36,6 @@ const destinationsData = [
     { id: 25, name: "Papúa Nueva Guinea", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/papuanuevaguinea.jpg", description: "Un destino para los aventureros con selvas vírgenes, una rica diversidad cultural y el impresionante Sendero de Kokoda." }
 ];
 
-// --- DATOS DE LOS PAQUETES DE VIAJE ---
-const packagesData = [
-    { id: 1, name: "Aventura Extrema en los Andes", image: "https://images.unsplash.com/photo-1504198188-02d216d26732?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", duration: "7 días", price: "Desde $1,500 USD" },
-    { id: 2, name: "Relajación Total en las Islas Griegas", image: "https://images.unsplash.com/photo-1601633513364-7541b6c00d46?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", duration: "4 días", price: "Desde $1,200 USD" },
-    { id: 3, name: "Explorador Urbano en Tokio", image: "https://images.unsplash.com/photo-1540959733332-eab4decd6469?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", duration: "5 días", price: "Desde $1,800 USD" },
-];
-
 // Obtener los contenedores del DOM
 const destinationsContainer = document.getElementById('destinations-items');
 const packagesContainer = document.querySelector('.paquetes-container');
