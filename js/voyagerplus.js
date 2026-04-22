@@ -33,7 +33,7 @@ const destinationsData = [
     { id: 22, name: "Nueva Zelanda", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/nueva zelanda.jpg", description: "Conocida por sus paisajes cinematográficos, ofrece montañas, fiordos, géiseres y una cultura maorí única." },
     { id: 23, name: "Fiyi", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/fiyi.jpeg", description: "Un archipiélago de más de 300 islas con playas de arena blanca, aguas turquesas y arrecifes de coral perfectos para bucear." },
     { id: 24, name: "Polinesia Francesa", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/polinesia francesa.jpeg", description: "Hogar de la icónica isla de Bora Bora con sus bungalows sobre el agua, montañas volcánicas y lagunas cristalinas." },
-    { id: 25, name: "Papúa Nueva Guinea", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/papuanuevaguinea.jpg", description: "Un destino para los aventureros con selvas vírgenes, una rica diversidad cultural y el impresionante Sendero de Kokoda." }
+    { id: 25, name: "Papúa Nueva Guinea", continent: "Oceanía", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/nueva guinea.jpg", description: "Un destino para los aventureros con selvas vírgenes, una rica diversidad cultural y el impresionante Sendero de Kokoda." }
 ];
 
 // Obtener los contenedores del DOM
