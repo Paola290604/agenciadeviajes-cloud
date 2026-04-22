@@ -10,7 +10,7 @@ const destinationsData = [
     // Europa
     { id: 6, name: "Francia", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/francia.jpeg", description: "Sumérgete en el arte y la cultura de París, explora los viñedos de Borgoña y disfruta de la Costa Azul." },
     { id: 7, name: "Italia", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/italia.jpeg", description: "Visita la Roma histórica, navega por los canales de Venecia y degusta la auténtica pizza en Nápoles." },
-    { id: 8, name: "España", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/españa.jpeg", description: "Descubre la arquitectura de Gaudí en Barcelona, la pasión del flamenco en Sevilla y las playas soleadas de la costa española." },
+    { id: 8, name: "España", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/españa.png", description: "Descubre la arquitectura de Gaudí en Barcelona, la pasión del flamenco en Sevilla y las playas soleadas de la costa española." },
     { id: 9, name: "Grecia", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/grecia.jpeg", description: "Maravíllate con las antiguas ruinas de Atenas y las icónicas casas blancas y azules de las islas Cícladas." },
     { id: 10, name: "Suiza", continent: "Europa", image: "https://tiendacloud01paolareyes.blob.core.windows.net/imagenespaola/suiza.jpeg", description: "Ideal para amantes de la naturaleza con sus Alpes impresionantes, lagos cristalinos y pintorescos pueblos de montaña." },
     
